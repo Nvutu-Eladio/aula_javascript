@@ -1,0 +1,13 @@
+						Array
+
+.push serve para adicionar elementos no array.
+
+.pop serve para eliminar.
+
+lista.length - serve para imprimir o tamanho da lista.
+
+lista.reverse - ele traz todos os elementos ao contrário.
+
+lista.toString - ele traz a lista como string
+
+lista.join - serve para separar
